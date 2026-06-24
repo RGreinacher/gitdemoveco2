@@ -10,3 +10,4 @@ if print_hello():
 else:
     print(":'(")
 
+print("end of program")
