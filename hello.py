@@ -1,6 +1,11 @@
 # hello world file
 
+def print_hello():
+    print('Hello world!')
+    return True
 
-print('Hello world!')
-print(":o)")
+if print_hello():
+    print(":o)")
+else:
+    print(":'(")
 
